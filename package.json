@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "cordova-android": "~6.4.0",
-    "cordova-ios": "^4.5.3",
+    "cordova-ios": "4.5.3",
     "cordova-plugin-battery-status": "^1.2.5",
     "cordova-plugin-ble-central": "^1.1.4",
     "cordova-plugin-camera": "^3.0.0",
@@ -55,7 +55,7 @@
     "phonegap-plugin-barcodescanner": "^6.0.8",
     "phonegap-plugin-contentsync": "^1.4.1",
     "phonegap-plugin-mobile-accessibility": "^1.0.5",
-    "phonegap-plugin-push": "^2.1.2",
+    "phonegap-plugin-push": "2.1.2",
     "q": "^1.5.1"
   },
   "devDependencies": {
